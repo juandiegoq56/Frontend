@@ -73,3 +73,11 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Vistas desde el Frontend
+Se carga la vistas desde el frontend, en esta se renderiza los resultados y la tabla de posiciones de los equipos del torneo, adicionalmente se muestra el equipo campeón con el subcampeón y tercero.
+
+![image](https://github.com/juandiegoq56/Frontend/assets/94803522/75227103-4318-45bf-946d-0bd22cf267d5)
+![image](https://github.com/juandiegoq56/Frontend/assets/94803522/51ddc02b-3782-4a57-88bb-098fa19a4ae6)
+
+
+
